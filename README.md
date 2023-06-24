@@ -1,1 +1,1 @@
-# CollegeWeb
+# CollegeWebsite
